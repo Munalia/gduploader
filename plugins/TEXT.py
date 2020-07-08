@@ -5,7 +5,7 @@ drive_folder_name = "HB4All"
 MEGA_EMAIL = "email"
 MEGA_PASSWORD = "password"
 
-START = "Hi {}  \nI Am Google Drive Uploader Robot.\nPlease Authorise To use me.\nBy using /auth \n\nFor more info /help\n\nSupport HB4All"
+START = "Hi {}  \nI Am Google Drive Uploader Robot.\nPlease Authorise To Use Me.\nBy Using /auth For More Info /help\n\nSupport HB4All"
 
 HELP = """<b>AUTHORISE BOT</b>
 Use  /auth Command Generate
