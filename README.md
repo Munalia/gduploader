@@ -2,8 +2,6 @@
 
 # Upload to Google Drive Bot
 
-Here Is Live Version Of Bot  [U2GD_Bot](http://telegram.dog/U2GD_Bot)
-
 ### How Can We Use It
   - First authorize Bot Using `/auth` command Generate a Key and send it To bot .
   - Now You can Send Supported Link To Bot.
@@ -30,11 +28,6 @@ Here Is Live Version Of Bot  [U2GD_Bot](http://telegram.dog/U2GD_Bot)
    - Mega => Plugins > TEXT.py
    - Open load  => Plugins > dlopenload.py
 
-## Setup Your Own Bot
-  - Create Your  [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (other type) and Download its json
-  - Paste it In Bot Root Directroy  and Rename it "client_secrets.json"
-  - Replace Your Bot Token in  [creds.py file](./creds.py)
-  - Your Bot is Ready to Host.
 
 ### You can use Heroku to host it.
 
@@ -44,7 +37,6 @@ Here Is Live Version Of Bot  [U2GD_Bot](http://telegram.dog/U2GD_Bot)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Originally Created by Aryan Vikash at https://github.com/aryanvikash/Google-Drive-Uploader
 
 ### Licence
   - GPLv3
