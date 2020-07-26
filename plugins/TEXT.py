@@ -31,7 +31,7 @@ NOT_AUTH = "You Are Not Authorised To Using this Bot \n\nPlease Authorise Me Usi
 REVOKE_FAIL = "You Are Already UnAuthorised. \n\nPlease Use /auth To Authorise. \n\nreport At @HB4All1_Bot "
 AUTH_SUCC = "Authorised Successfully  !! \n\nNow Send Me A Direct Link :)"
 ALREADY_AUTH = "You Are Already Authorised!\n\nWanna Change Drive Account? \n\nUse /revoke \n\nReport At @HB4All1_Bot "
-AUTH_URL = '<a href ="{}">Click Here to Get Auth Code</a>\n\nGenerate And Copy Your Google Drive Token And Send It To Me'
+AUTH_URL = '<a href ="{}">Click Here to Get Auth Code</a>\n\nGenerate And Copy Your Google Drive Token And Send It To Me\n\nFollow The Steps Below\nhttps://telegra.ph/How-To-Use-Gdrive-Uploader-Bot-07-26'
 UPLOADING = "Download Complet !! \nUploading Your file"
 REVOKE_TOK = " Your Token is Revoked Successfully!! \n\nUse /auth To Re-Authorise Your Drive Acc."
 # DOWN_PATH = "Downloads\\" #windows path
