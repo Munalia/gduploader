@@ -9,16 +9,14 @@ START = "Hi {}  \nI Am Google Drive Uploader Robot.\nPlease Authorise To Use Me.
 
 HELP = """<b>AUTHORISE BOT</b>
 Use  /auth Command Generate
-Your Google Drive Token And
-Send It To Bot.\n\n
+Your Google Drive Token \n\n
+How To Use https://telegra.ph/How-To-Use-Gdrive-Uploader-Bot-07-26
+\n\n
 <b>You Wanna Change Your Login
 Account ?</b>
-You can use /revoke
-command.\n\n
+You can use /revoke command.\n\n
 <b>What I Can Do With This Bot?</b>
-You Can Upload Any Internet
-Files On Your google
-Drive Account.\n\n
+You Can Upload Direct Link To Your google Drive Account.\n\n
 This Bot is by HB4All\n
 Support HB4All @HB4All_Bot"""
 
